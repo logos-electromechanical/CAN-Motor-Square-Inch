@@ -19104,9 +19104,10 @@ CONN_03
 <pinref part="U2" gate="G$1" pin="CS"/>
 </segment>
 <segment>
-<wire x1="73.66" y1="93.98" x2="78.74" y2="93.98" width="0.1524" layer="91"/>
+<wire x1="73.66" y1="93.98" x2="76.2" y2="93.98" width="0.1524" layer="91"/>
 <label x="78.74" y="93.98" size="1.27" layer="95" xref="yes"/>
 <pinref part="U4" gate="G$1" pin="PC3"/>
+<wire x1="76.2" y1="93.98" x2="78.74" y2="93.98" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="GND" class="0">
